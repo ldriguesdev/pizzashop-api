@@ -15,6 +15,20 @@
       "when": 1750018579622,
       "tag": "0001_hard_ego",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1750032800634,
+      "tag": "0002_last_slyde",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1750032917803,
+      "tag": "0003_regular_lucky_pierre",
+      "breakpoints": true
     }
   ]
 }
