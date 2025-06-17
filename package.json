@@ -7,10 +7,13 @@
     "dev": "bun --watch src/http/server.ts",
     "build": "bun build src/http/server.ts",
     "generate": "drizzle-kit generate",
-    "migrate": "bun src/db/migrate.ts"
+    "migrate": "bun src/db/migrate.ts",
+    "seed": "bun src/db/seed.ts"
   },
   "devDependencies": {
+    "@faker-js/faker": "^9.8.0",
     "@types/bun": "latest",
+    "chalk": "^5.4.1",
     "drizzle-kit": "^0.31.1"
   },
   "peerDependencies": {
