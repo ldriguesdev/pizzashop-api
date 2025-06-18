@@ -29,6 +29,13 @@
       "when": 1750032917803,
       "tag": "0003_regular_lucky_pierre",
       "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1750209502178,
+      "tag": "0004_amused_meteorite",
+      "breakpoints": true
     }
   ]
 }
