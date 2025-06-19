@@ -10,7 +10,7 @@ const db = drizzle(connection);
 
 await migrate(db, { migrationsFolder: "drizzle" });
 
-console.log(chalk.greenBright("Migrations applied succesfully!"));
+console.log(chalk.greenBright("Migrations applied successfully!"));
 
 await connection.end();
 
